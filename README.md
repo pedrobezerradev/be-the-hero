@@ -23,18 +23,17 @@
   <a href="https://github.com/eugenissimo" target="_blank">
     <img alt="Made by Pedro Bezerra" src="https://img.shields.io/badge/made%20by-Pedro_Bezerra-informational">
   </a>
-  <a href="https://github.com/eugenissimo" target="_blank" >
-    <img alt="Github - Pedro Bezerra" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
-  </a>
   <a href="https://www.linkedin.com/in/eugenissimo/" target="_blank" >
     <img alt="Linkedin - Pedro Bezerra" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
   </a>
+  <a href="https://twitter.com/eugenissimo" target="_blank" >
+    <img alt="Twitter - Pedro Bezerra" src="https://img.shields.io/badge/Twitter--%23F8952D?style=social&logo=twitter">
+  </a>
+  <a href="https://github.com/eugenissimo" target="_blank" >
+    <img alt="Github - Pedro Bezerra" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
+  </a>
   <a href="mailto:pedroegbezerra@gmail.com" target="_blank" >
     <img alt="Email - Pedro Bezerra" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
-  </a>
-  <a href="https://twitter.com/eugenissimo"
-        target="_blank" >
-    <img alt="Twitter - Pedro Bezerra" src="https://img.shields.io/badge/Twitter--%23F8952D?style=social&logo=twitter">
   </a>
 
 </p>
